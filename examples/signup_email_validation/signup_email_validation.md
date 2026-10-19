@@ -5,11 +5,6 @@ This example validates the email address of a new sign-up using the Interzoid Em
 ## Prerequisites
 
 - Ballerina Swan Lake 2201.12.0 or later
-- Push the connector to the local repository:
-  ```bash
-  cd ballerina
-  bal pack && bal push --repository=local
-  ```
 - Create a `Config.toml` in this directory:
   ```toml
   license = "<your-license-key>"

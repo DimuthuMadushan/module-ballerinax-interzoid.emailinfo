@@ -7,7 +7,7 @@ The `ballerinax/interzoid.emailinfo` connector provides practical examples illus
 
 ## Prerequisites
 
-Push the connector to the local repository with `bal pack && bal push --repository=local` from the `ballerina` directory, and provide your Interzoid API `license` key in a `Config.toml` file in the example directory.
+Provide your Interzoid API `license` key in a `Config.toml` file in the example directory.
 
 ## Running an example
 
